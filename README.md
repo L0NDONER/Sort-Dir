@@ -1,6 +1,6 @@
 ######################################################
 #    http://pep8online.com/ Status Checked           #
-#    Python Twitter unfollow bot                     #
+#    Python Directory Sorter Script                  #
 #    Version 0.1    (Work in progress)               #
 #    Author: L0NDONER                                #
 #    Updated 08 September 2016                       #
